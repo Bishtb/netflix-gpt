@@ -2,3 +2,4 @@
 
 cra & tailwind
 
+initialize project using Create react App
