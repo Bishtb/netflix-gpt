@@ -1,5 +1,6 @@
 # Netflix GPT
 
+<<<<<<< HEAD
 - created react app
 - configured tailwindCss
 - Header
@@ -47,3 +48,8 @@
 - NetflixGPT
     - Search bar
     - Movie Suggesttions
+=======
+cra & tailwind
+
+initialize project using Create react App
+>>>>>>> 4796da3e5bb3edd9a68b6ab04aa21c0dec3e01df
